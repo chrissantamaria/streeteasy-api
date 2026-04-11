@@ -1,6 +1,6 @@
 {
-  "name": "streeteasy-api",
-  "version": "0.1.11",
+  "name": "@chrissantamaria/streeteasy-api",
+  "version": "0.1.11-fork.1",
   "description": "TypeScript API client for StreetEasy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evandcoleman/streeteasy-api"
+    "url": "https://github.com/chrissantamaria/streeteasy-api"
   },
   "keywords": [
     "streeteasy",
